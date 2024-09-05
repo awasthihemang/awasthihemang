@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduction</title>
+</head>
+<body>
+    <h1>Name</h1>
+    <p>Hemang Awasthi</p>
+    <h2>introduction</h2>
+    <p>Hello! My name is Hemang Awasthi. I have a background in computer science, and i am exploring different studies to broaden my knowledge which will help with my future. In my free time, I like to read about the latest defense tech trends.</p>
+    <h2>My Hobbies</h2>
+    <ul>
+        <li>Watching documentaries</li>
+        <li>Reading history novels</li>
+        <li>learning about new tech</li>
+    </ul>
+    <p>Visit my favorite website: <a href="">http://indianarmy.nic.in>/</a></p>
+</body>
+</html>

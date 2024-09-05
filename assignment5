@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Top 5 Favorite Movies</title>
+</head>
+<body>
+    <h1>My Top 5 Favorite Movies</h1>
+    <ol>
+        <li>
+            KGF part 1
+            <ul>
+                <li><strong>Year:</strong> 2018</li>
+                <li><strong>Main Actors:</strong> yash,shrinidhi shetty,mouni roy,anant nag,achyuth kumar and more</li>
+                <li><strong>Description:</strong>KGF, or Kolar Gold Fields, is an Indian film series that primarily follows the life of Rocky, portrayed by Yash. Set against the backdrop of the gold mining region in Kolar, the story unfolds in two parts.
+
+                    In part 1, Rocky rises from humble beginnings in Mumbai to become a feared gangster in the gold mining underworld. His ambition is to rule the KGF, a place notorious for its harsh conditions and brutal regime. He confronts various adversaries, including the oppressive forces of the local mafia and corrupt politicians. </li>
+            </ul>
+        </li>
+        <li>
+            KGF part 2
+            <ul>
+                <li><strong>Year:</strong> 2022</li>
+                <li><strong>Main Actors:</strong> yash,shrinidhi shetty,sanjay dutt and more</li>
+                <li><strong>Description:</strong> Part 2 continues Rocky's journey as he solidifies his power in the KGF and faces greater threats, including enemies who aim to dethrone him. The film is marked by high-octane action, themes of ambition, loyalty, and the fight for freedom, with dramatic sequences that have captivated audiences.
+
+                    For more depth, it's advisable to watch the films to fully grasp the intricacies of the plot and character development.</li>
+            </ul>
+        </li>
+        <li>
+            sam bahadur
+            <ul>
+                <li><strong>Year:</strong> 2023</li>
+                <li><strong>Main Actors:</strong> vicky kaushal,sanya malhotra,fatima sana shaikh and more</li>
+                <li><strong>Description:</strong> Sam Manekshaw, known as Sam Bahadur, was an influential Indian Army officer and the first Field Marshal of India. He played a crucial role during the Indo-Pakistani War of 1971, which led to the creation of Bangladesh. His leadership and strategic acumen were pivotal in India's military successes. Manekshaw was celebrated for his charisma, wit, and straightforwardness. After his retirement, he became a prominent figure in Indian military history and is remembered for his contributions to the country.
+
+                    Please verify any critical information for accuracy.</li>
+            </ul>
+        </li>
+        <li>
+            Baahubali
+            <ul>
+                <li><strong>Year:</strong> 2015</li>
+                <li><strong>Main Actors:</strong> Prabhas, Rana Daggubati, Anushka Shetty</li>
+                <li><strong>Description:</strong> A young man learns about his royal heritage and sets out on a mission to rescue his mother and reclaim his kingdom from an evil king.</li>
+            </ul>
+        </li>
+        <li>
+            URI:the surgical strike 
+            <ul>
+                <li><strong>Year:</strong> 2024</li>
+                <li><strong>Main Actors:</strong> vicky kaushal,mohit raina,yami gautam,keerti kulhari and more</li>
+                <li><strong>Description:</strong>The movie "Uri: The Surgical Strike" is based on true events that took place in 2016. It follows the story of an Indian army surgical strike against militant launch pads in Pakistan following a terrorist attack on an Indian army base in Uri, Kashmir. The film highlights the planning and execution of the strike by Indian special forces and features themes of patriotism, sacrifice, and the complexities of military operations. </li>
+            </ul>
+        </li>
+    </ol>
+</body>
+</html>

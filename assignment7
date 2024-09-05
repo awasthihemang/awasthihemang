@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NLC Media Player</title>
+</head>
+<body>
+    <h1>NLC Media Player</h1>
+
+    <section>
+        <h2>Audio Player</h2>
+        <p>"Welcome to NLC audio player, where seamless sound meets innovative design! Enjoy your favorite music, podcasts, and audiobooks with incredible clarity and an intuitive interface. Experience personalized playlists and discover new tracks based on your listening habits. Let's elevate your audio journey together!"</p>
+        <audio controls>
+            <source src="sample-audio.mp3" type="audio/mpeg">
+             browser does not support the audio element.
+        </audio>
+    </section>
+
+    <section>
+        <h2>Video Player</h2>
+        <p>"Welcome to NLC MEDIA PLAYER! We're thrilled to have you here. Whether you're a movie buff, a series binge-watcher, or just looking for some great content, you've come to the right place!"</p>
+        <video controls width="640" height="360">
+            <source src="sample-video.mp4" type="video/mp4">
+             browser does not support the video element.
+        </video>
+    </section>
+</body>
+</html>

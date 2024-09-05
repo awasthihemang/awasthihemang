@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semantic HTML Document</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <article>
+            <h1>Welcome to Indian Army</h1>
+            <p>The Indian Army is a vital component of the nation's defense, showcasing discipline, bravery, and dedication. The Indian Army welcomes individuals who aspire to serve their country, offering various opportunities for recruitment across different ranks and roles.
+
+                New recruits undergo rigorous training that emphasizes physical fitness, skills development, and camaraderie. The Indian Army prides itself on its values and the spirit of service to the nation, fostering a profound sense of duty and honor among its ranks.
+                
+                Joining the Indian Army is not just a career choice; it is a commitment to uphold the sovereignty and integrity of the nation. The organization continues to adapt and modernize while maintaining its rich traditions and heritage.
+                
+                Prospective candidates are encouraged to explore various entry schemes and prepare diligently for the selection process, as becoming a part of the Indian Army is a prestigious accomplishment that embodies sacrifice and resilience.</p>
+        </article>
+
+        <aside>
+            <h2>Related Links</h2>
+            <ul>
+                <li><a href="#link1">images</a></li>
+                <li><a href="#link2">Services</a></li>
+                <li><a href="#link3">information</a></li>
+            </ul>
+        </aside>
+    </main>
+
+    <footer>
+        <p>Contact us:</p>
+        <p>Email: contact@indianarmy.com</p>
+        <p>Phone: +91 978xx xxxxx</p>
+    </footer>
+</body>
+</html>

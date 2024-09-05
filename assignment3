@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>table</title>
+</head>
+<body>
+    <h2> My Weekly Schedule</h2>
+    <table border="1">
+        <thead>
+            <tr>
+                <td>Time</td>
+                <td>Monday</td>
+                <td>Tuesday</td>
+                <td>Wednesday</td>
+                <td>Thursday</td>
+                <td>Friday</td>
+                <td>Saturday</td>
+                <td>Sunday</td>
+            </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Morning</td>
+                    <td>Excercise</td>
+                    <td>Excercise</td>
+                    <td>Excercise</td>
+                    <td>Excercise</td>
+                    <td>Excercise</td>
+                    <td>Excercise</td>
+                    <td>Excercise</td>
+                </tr>
+                <tr>
+                    <td>Afternoon</td>
+                    <td>college</td>
+                    <td>college</td>
+                    <td>college</td>
+                    <td>college</td>
+                    <td>college</td>
+                    <td>college</td>
+                    <td>watch movie or documentry</td>
+                </tr>
+                <tr>
+                    <td>evening</td>
+                    <td>revision</td>
+                    <td>revision</td>
+                    <td>revision</td>
+                    <td>computer work</td>
+                    <td>computer work</td>
+                    <td>computer work</td>
+                    <td>go out to play some sport either cricket or football</td>
+                </tr>
+
+            </tbody>
+    </table>
+</body>
+</html>
